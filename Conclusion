@@ -1,0 +1,4 @@
+Smart Lender is an AI-based loan approval system that helps banks automate decisions. 
+The RandomForest model predicts loan status with 82% accuracy using applicant data. 
+This reduces processing time and helps in reducing NPA for banks. 
+The project successfully demonstrates real-world application of ML in finance.
