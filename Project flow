@@ -1,0 +1,7 @@
+1. Data Collection: Download loan dataset
+2. Data Pre-processing: Handle missing values, encode categorical data
+3. Model Training: Train RandomForestClassifier on 80% data
+4. Model Testing: Check accuracy on 20% test data
+5. Application Building: Create Streamlit web interface
+6. Deployment: Deploy app on Streamlit Cloud
+7. Prediction: User enters details → Get Approved/Rejected result
