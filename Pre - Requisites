@@ -1,0 +1,6 @@
+- Python 3.8+
+- Libraries: pandas, numpy, scikit-learn, streamlit
+- IDE: VS Code / Jupyter Notebook
+- Dataset: loan_data.csv
+- GitHub account for code hosting
+- Streamlit Cloud account for deployment
